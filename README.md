@@ -41,7 +41,7 @@
 
 #### 环境要求
 
-- Python 3.10+
+- Python 3.12
 - 摄像头与主机在同一局域网
 
 #### 安装依赖
@@ -203,7 +203,7 @@ Runs as an MCP (Model Context Protocol) Server, exposing 20 camera control tools
 
 #### Requirements
 
-- Python 3.10+
+- Python 3.12
 - Cameras and host on the same local network
 
 #### Install Dependencies
